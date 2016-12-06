@@ -1,12 +1,12 @@
-* Requirements:
+## Requirements:
 - Video stream is taken from computer's Webcam.
 
-* Usage:
+## Usage:
 - video.py:
 	```
 	python video.py <effect name>[,<effect name 1>,<effect name 2>,...]
 	```
-	Example:
+...Example:
 	```
 	python video.py grayscale,median_blur
 	```
@@ -14,4 +14,4 @@
 	```
 	python object_tracking.py
 	```
-Stop program: Press 'q'
+...Stop program: Press 'q'
